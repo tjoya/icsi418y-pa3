@@ -71,7 +71,6 @@ function Login()
                     <p>First Name: {user.f_name}</p>
                     <p>Last Name: {user.l_name}</p>
                     <p>Username: {user.username}</p>
-                    <p>Password: {user.password}</p>
                 </div>
             )}
 
